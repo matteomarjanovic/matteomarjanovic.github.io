@@ -6,6 +6,6 @@ I am bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 
 ## Projects
 
-- [Project 1](https://github.com/your-username/project-1)
+- [spark-recommender](https://github.com/matteomarjanovic/spark-recommender)
 - [Project 2](https://github.com/your-username/project-2)
 - [Project 3](https://github.com/your-username/project-3)
