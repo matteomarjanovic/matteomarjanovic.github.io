@@ -1,11 +1,18 @@
+---
+layout: home
+---
+
 # Matteo Marjanovic
 
 ## Bio
 
-I am bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+I'm a Machine Learning Engineer (Computer Vision) at [blimp.ai](https://blimp.ai), working on algorithms that perform object detection, tracking and classification.
+
+I'm a very curious and determined person, I have a passion for delving into diverse topics and uncovering connections between them.
+
+I'm Italian National Champion in Taekwondo and have been part of the Italian National Team in several international competitions.
 
 ## Projects
 
-- [spark-recommender](https://github.com/matteomarjanovic/spark-recommender)
-- [Project 2](https://github.com/your-username/project-2)
-- [Project 3](https://github.com/your-username/project-3)
+- [Spark recommendation system](https://github.com/matteomarjanovic/spark-recommender)
+- [3D-NDDR-CNN for Alzheimer's disease detection](https://github.com/your-username/project-2)
