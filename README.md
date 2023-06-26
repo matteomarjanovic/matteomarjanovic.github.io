@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # Matteo Marjanovic
 
 ## Bio
